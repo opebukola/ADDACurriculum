@@ -27,7 +27,7 @@
 <a id="webapps">0.2: How do web apps work?</a>
 -----------------------------
 
-**0.2a - What Is a Web App? **
+**0.2a - What Is a Web App?**
 
 + Read - [How web apps work](https://docs.google.com/presentation/d/19RxelsKDMjY2Oi8DCIx48coeAL37c2mNay3QbMMW8pA/edit?usp=sharing) 
 
