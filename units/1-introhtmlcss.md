@@ -6,7 +6,7 @@
 
 [1.3: HTML document structure](#13-html-document-structure)
 
-[1.4: Tags, elements and attributes](#14-elements)
+[1.4: Elements, Tags, and Attributes](#14-elements)
 
 [1.5: CSS selectors](#15-css-selectors)
 
