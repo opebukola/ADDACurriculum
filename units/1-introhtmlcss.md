@@ -10,8 +10,6 @@
 
 [1.5: CSS selectors](#15-css-selectors)
 
-[Homework](#homework)
-
 [Resources](#resources)
 
 
@@ -64,15 +62,11 @@
 + Read basics of HTML elements and tags on pgs 4-6 of [1.4 - Elements, Tags and Attributes](https://docs.google.com/presentation/d/1rNTJ2Et0ppxHZo9cpTeAf2PUuCwa23m_tuRh2CoT3Ao/edit?usp=sharing)
 + Practice researching and writing HTML tags on pg 7 of [1.4 - Elements, Tags and Attributes](https://docs.google.com/presentation/d/1rNTJ2Et0ppxHZo9cpTeAf2PUuCwa23m_tuRh2CoT3Ao/edit?usp=sharing)
 
-<a id="#15-css-selectors">1.5: CSS Selectors</a>
+<a id="15-css-selectors">1.5: CSS Selectors</a>
 ---------------------
-+ 
++ Read basics of CSS selectors in [1.5 - CSS Selectors](https://docs.google.com/presentation/d/1XYLq7HykvftTL4hfpLeEqL17mOGesjSa5P3bpRWXE5g/edit?usp=sharing)
++ Practice researching and writing CSS rules on page 10 of [1.5 - CSS Selectors](https://docs.google.com/presentation/d/1XYLq7HykvftTL4hfpLeEqL17mOGesjSa5P3bpRWXE5g/edit?usp=sharing)
 
-
-<a id="homework">Homework</a>
------------------------------
-
-+ Access the homework assignment set [here](https://docs.google.com/document/d/1kAfpLMqUAr0z9EAJgfkNhIPwEyY77564NJzthpPe0J4/edit?usp=sharing)
 
 <a id="resources">Resources</a>
 -----------------------------
@@ -80,4 +74,9 @@
 + Watch [HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/html/html) (3:35)
 + Watch [Don't Fear the Browser - Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/html/html) (3:35)
 + Read [Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
++ Watch [Don't Fear Starting from Scratch Part 1: HTML](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)
++ Watch [Don't Fear Starting from Scratch Part 2: CSS](http://www.dontfeartheinternet.com/css/don%E2%80%99t-fear-starting-from-scratch-2)
+
+
+
 
