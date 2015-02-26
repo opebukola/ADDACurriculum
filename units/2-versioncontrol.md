@@ -4,6 +4,8 @@
 
 [2.2: Command Line](#22-command-line)
 
+[2.3: Git Practice](#23-git-practice)
+
 [Resources](#resources)
 
 <a id="21-basics">2.1: What is version control, and why use it?</a>
@@ -21,6 +23,14 @@
 
 + Read [The Command Line](https://docs.google.com/presentation/d/11SEgdvUkPk_AenNiwAoF676yNuJa8R07g5S1rAaVRhE/edit?usp=sharing)
 + Find your shell and practice 
+
+<a id="23-git-practice">2.3: Git and Github</a>
+---------------------
+
+**2.3a: Git Practice**
+
++ Read [Git Practice](https://docs.google.com/presentation/d/1cAcaEeq6QQk3XSExhiVxdPmUl87azx8FjyDOCwGYz_s/edit?usp=sharing)
+
 
 <a id="resources">Resources</a>
 -----------------------------
