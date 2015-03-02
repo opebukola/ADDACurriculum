@@ -10,6 +10,7 @@ Homework 2
 
 + Access the homework assignment set [here](https://docs.google.com/document/d/1EB4FuOpbB76vyYWPHMIi2PsXKYygS90BMB1lOZQGKqc/edit?usp=sharing)
 + Due: Monday Feb 23 2015
++ Homework 2 Solution: [Download my landing page sample](https://drive.google.com/file/d/0B1MYP7sU_C0vTVNUdVA1LVZvTlE/view?usp=sharing)
 
 Homework 3
 -----------------------------
