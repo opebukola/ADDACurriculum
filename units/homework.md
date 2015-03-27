@@ -17,3 +17,15 @@ Homework 3
 
 + Access the homework assignment set [here](https://docs.google.com/document/d/1dQ0_a7KHYbp4qWC4rJ2_hgyBYUQ-7vL7Iy6VDjfkBCY/edit?usp=sharing)
 + Due: Tues Mar 3 2015
+
+Homework 4
+-----------------------------
+
++ Access the homework assignment set [here](https://docs.google.com/document/d/1v4_h3pV49Npd1W2a3JWPX3sQ1YRozbKj_-VL60M8jmo/edit?usp=sharing)
++ Due: Tues Mar 24 2015
+
+Homework 5
+-----------------------------
+
++ Access the homework assignment set [here](https://docs.google.com/document/d/1swNApwkjCtSMk9P3o2xG9zAjUsaFI08k0Zbcm8OD5WM/edit?usp=sharing)
++ Due: Tues Mar 31 2015
