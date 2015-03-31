@@ -23,6 +23,9 @@
 
 + Read [Grid Based Web Design](https://docs.google.com/presentation/d/12025Umyz1AiPphNRYMRk3uI2kFkFW2hF6M_UCj8mL4Y/edit?usp=sharing)
 
++ Do [Practice with Grids](https://docs.google.com/document/d/1i5_KJHskdtLzts-A4xKcJwpoCoSx2DjsMAYtgFgz3sM/edit?usp=sharing)
+
+
 
 
 <a id="resources">Resources</a>
