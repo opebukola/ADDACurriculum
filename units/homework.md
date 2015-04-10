@@ -29,3 +29,9 @@ Homework 5
 
 + Access the homework assignment set [here](https://docs.google.com/document/d/1swNApwkjCtSMk9P3o2xG9zAjUsaFI08k0Zbcm8OD5WM/edit?usp=sharing)
 + Due: Tues Mar 31 2015
+
+Homework 6 - Final Project
+-----------------------------
+
++ Access the homework assignment set [here](https://docs.google.com/document/d/19pEHUyvZ13Wj1n9YDMDfSN-6q2le80oN7ACa6Q5aEaM/edit?usp=sharing)
++ Due: Tues April 14 2015 (Steps 1-3) and Tues April 21 2015 (Final)
