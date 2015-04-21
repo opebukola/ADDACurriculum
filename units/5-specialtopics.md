@@ -6,3 +6,5 @@
 + [JavaScript and jQuery](https://drive.google.com/open?id=1Wx0zyNDZ30dqfjGzSOih7378dfeksetqpYKmXEFNqYI&authuser=0)
 
 + [Host with Github pages](https://docs.google.com/document/d/16yenSMy4lGFn_s0_Pkh_QYNIZqoL9vq4iiNrPk6dB58/edit?usp=sharing)
+
++ [How to continue coding](https://docs.google.com/presentation/d/1eEqhae7vOIDIQ7Ug5VZoj15qXgX1g-84LDndoomxheQ/edit?usp=sharing)
