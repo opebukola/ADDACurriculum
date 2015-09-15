@@ -1,6 +1,6 @@
 #ADDA Curriculum: HTML/CSS
 
-Below is the curriculum for an introductory course in HTML/CSS for beginners at Athena Digital Design. The course was first offered in Winter 2015, and is being offered again in Sprint 2015.  
+Below is the curriculum for an introductory course in HTML/CSS for beginners at Athena Digital Design. The course was first offered in Winter 2015, and is being offered again in Fall 2015.  
 
 Homework assignments are posted [here.](https://github.com/opebukola/ADDACurriculum/blob/master/units/homework.md)
 
