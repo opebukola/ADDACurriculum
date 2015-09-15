@@ -30,7 +30,6 @@
 -----------------------------
 
 + Slides - [How web apps work]() 
-
 + Watch - [Not A Series of Tubes](http://www.dontfeartheinternet.com/the-basics/not-tubes)
 
 **Key Takeaway:** A web application is software that runs in a browser. The “front-end” of the application is the part the user interacts with in the browser, and it's written using HTML, CSS, and Javascript. 
