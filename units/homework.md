@@ -1,8 +1,8 @@
 Homework 1
 -----------------------------
 
-+ Access the homework assignment set
-+ Due: TBD
++ Access the homework assignment set [here](https://docs.google.com/document/d/1jDwfaUztIqLGPPStaIQkBXUwU5f2i2-g3kMNZ7fngJk/edit?usp=sharing)
++ Due: beginning of class week of 9/28
 
 Homework 2
 -----------------------------

@@ -23,7 +23,7 @@
 <a id="12-html-document-structure">1.2: HTML Document Structure</a>
 ---------------------
 
-+ Slides -  [1.2 - HTML Document Structure](https://docs.google.com/presentation/d/12raIAgSTqDOOK4ylFU-fW8Z-zQRO_T3BTLyjZbvNaCs/edit?usp=sharing)
++ Slides -  [1.2 - HTML Document Structure](https://docs.google.com/presentation/d/1asJMdIOdUb_RXO9XOSaIqKlKSTFXaKD2Jlf_JLGadDQ/edit?usp=sharing)
 
 
 <a id="13-elements">1.3: Elements, Tags and Attributes</a>
@@ -39,7 +39,8 @@
 <a id="assignments">Assignments</a>
 -----------------------------
 
-+ [Assignments Set 1](https://docs.google.com/document/d/1jDwfaUztIqLGPPStaIQkBXUwU5f2i2-g3kMNZ7fngJk/edit?usp=sharing) - Due beginning of class week of 9/28
++ Access the homework assignment set [here](https://docs.google.com/document/d/1jDwfaUztIqLGPPStaIQkBXUwU5f2i2-g3kMNZ7fngJk/edit?usp=sharing)
++ Due: beginning of class week of 9/28
 
 
 <a id="resources">Extra Resources</a>
