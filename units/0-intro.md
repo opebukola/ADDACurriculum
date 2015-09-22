@@ -8,6 +8,7 @@
 
 [0.2: How do web apps work?](#webapps)
 
+[Extra Resources](#resources)
 
 
 <a id="welcome">Welcome!</a>
@@ -29,9 +30,14 @@
 <a id="webapps">0.2: How do web apps work?</a>
 -----------------------------
 
-+ Slides - [How web apps work](#) 
-+ Watch - [Not A Series of Tubes](http://www.dontfeartheinternet.com/the-basics/not-tubes)
++ Slides - [How web apps work](https://docs.google.com/presentation/d/1Hq5kcp9czKbieHGmuJGwJHu8WybDD1k_JryT4x-jvkQ/edit?usp=sharing) 
+
 
 **Key Takeaway:** A web application is software that runs in a browser. The “front-end” of the application is the part the user interacts with in the browser, and it's written using HTML, CSS, and Javascript. 
+
+<a id="resources">Extra Resources</a>
+-----------------------------
+
++ Watch - [Not A Series of Tubes](http://www.dontfeartheinternet.com/01-not-tubes/)
 
 
