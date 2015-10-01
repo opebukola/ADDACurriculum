@@ -7,8 +7,8 @@ Homework 1
 Homework 2
 -----------------------------
 
-+ Access the homework assignment set
-+ Due: TBD
++ Access the homework assignment set [here](https://docs.google.com/document/d/1QdCyUWKG4J383NwEMl28SyrWfqJlzJJHvYOipOzrrkw/edit?usp=sharing)
++ Due: beginning of class week of 10/5
 
 Homework 3
 -----------------------------
