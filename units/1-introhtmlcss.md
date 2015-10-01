@@ -34,13 +34,12 @@
 
 <a id="14-css-selectors">1.4: CSS Selectors</a>
 ---------------------
-+ Slides - [CSS Selectors]
++ Slides - [CSS Selectors](https://docs.google.com/presentation/d/1w7uhP2Uvq8xwFUck7RKVBYo_jBUTiOfAoXkQix6pMCM/edit?usp=sharing)
 
 <a id="assignments">Assignments</a>
 -----------------------------
 
-+ Access the homework assignment set [here](https://docs.google.com/document/d/1jDwfaUztIqLGPPStaIQkBXUwU5f2i2-g3kMNZ7fngJk/edit?usp=sharing)
-+ Due: beginning of class week of 9/28
++ Access the homework assignments [here](https://github.com/opebukola/ADDACurriculum/blob/master/units/homework.md)
 
 
 <a id="resources">Extra Resources</a>
