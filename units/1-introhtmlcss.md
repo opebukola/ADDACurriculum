@@ -8,6 +8,8 @@
 
 [1.4: CSS selectors](#14-css-selectors)
 
+[1.5: Connecting HTML & CSS](#15-connect-html)
+
 [Assignments](#assignments)
 
 [Extras Resources](#resources)
@@ -35,6 +37,10 @@
 <a id="14-css-selectors">1.4: CSS Selectors</a>
 ---------------------
 + Slides - [CSS Selectors](https://docs.google.com/presentation/d/1w7uhP2Uvq8xwFUck7RKVBYo_jBUTiOfAoXkQix6pMCM/edit?usp=sharing)
+
+<a id="15-connect-html">Connecting HTML & CSS</a>
+---------------------
++ Slides - [Connecting HTML & CSS](https://docs.google.com/presentation/d/1N2fSvD5-MjL9eoae8wuZlJTtenba0HW2K2ESootkbFI/edit?usp=sharing)
 
 <a id="assignments">Assignments</a>
 -----------------------------
