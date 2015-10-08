@@ -13,7 +13,7 @@ Homework 2
 Homework 3
 -----------------------------
 
-+ Access the homework assignment set [here](https://drive.google.com/open?id=1WHT8OGqabUkoudJ6GI3zjgEugIyJhDkdw_XYJsPuUpw)
++ Access the homework assignment set [here](https://docs.google.com/document/d/1WHT8OGqabUkoudJ6GI3zjgEugIyJhDkdw_XYJsPuUpw/edit?usp=sharing)
 + Due: 10/23/2015
 
 Homework 4
