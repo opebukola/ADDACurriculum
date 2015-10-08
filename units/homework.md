@@ -13,8 +13,8 @@ Homework 2
 Homework 3
 -----------------------------
 
-+ Access the homework assignment set
-+ Due: TBD
++ Access the homework assignment set [here](https://drive.google.com/open?id=1WHT8OGqabUkoudJ6GI3zjgEugIyJhDkdw_XYJsPuUpw)
++ Due: 10/23/2015
 
 Homework 4
 -----------------------------
