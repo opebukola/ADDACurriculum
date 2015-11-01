@@ -11,9 +11,9 @@ Homework assignments are posted [here.](https://github.com/opebukola/ADDACurricu
 | ------------- |-------------|----------|
 | **0**: [Get Ready to Code!](https://github.com/opebukola/ADDACurriculum/blob/master/units/0-intro.md)  | 0.1. Why Programming <br>0.2. How do web apps work? | N/A |
 | **1**: [Introduction to HTML/CSS](https://github.com/opebukola/ADDACurriculum/blob/master/units/1-introhtmlcss.md)  | 1.1. Explore HTML/CSS <br>1.2. Document Object Model <br> 1.3. HTML Document Structure <br> 1.4. Tags, elements, attributes <br> 1.5. CSS Selectors <br> 1.6. Semantic HTML | Build a personal landing page <br> Build an interactive resume<br> [Project Link](https://docs.google.com/presentation/d/1khD13wNVtU950C6HjttP1oQc3t0BnYavrbPXTZ3IIdM/edit?usp=sharing) |
-| **2**: [CSS Positioning]
+| **2**: CSS Positioning
   | 2.1. Semantic HTML <br>2.2. The Box Model <br> 2.3. Responsive Design <br> 2.4. Grid Based Design <br> 2.5. CSS Frameworks| Build the Instagram Homepage <br>Modify a Site with Bootstrap|
-| **4**: [Special Topics](https://github.com/opebukola/ADDACurriculum/blob/master/units/5-specialtopics.md)  | Wordpress <br>Javascript and jQuery | Final Project |
+|  [Special Topics](https://github.com/opebukola/ADDACurriculum/blob/master/units/5-specialtopics.md)  | Wordpress <br>Javascript and jQuery | Final Project |
 
 **Homework:** Access all [Homework Assignments](https://github.com/opebukola/ADDACurriculum/blob/master/units/homework.md) 
 
