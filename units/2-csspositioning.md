@@ -8,7 +8,7 @@
 
 [2.4: Grid Based Design](#24-grid)
 
-[2.5: CSS Frameworks](#25-queries)
+[2.5: Media queries](#25-queries)
 
 [2.6: CSS Frameworks](#26-frameworks)
 
