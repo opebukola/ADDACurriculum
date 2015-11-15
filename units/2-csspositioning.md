@@ -8,9 +8,9 @@
 
 [2.4: Grid Based Design](#24-grid)
 
-[2.5: CSS Frameworks](#25-frameworks)
+[2.5: CSS Frameworks](#25-queries)
 
-[Resources](#resources)
+[2.6: CSS Frameworks](#26-frameworks)
 
 <a id="21-semantic">2.1: Semantice HTML</a>
 ---------------------
