@@ -37,10 +37,13 @@
 
 + Slides - [Grid Based Design](https://drive.google.com/open?id=1IgbeebvwBiQ5MfyfZh4H0sXhEG_PPlpUWW7bw-UA4ls)
 
-<a id="25-frameworks">2.5: CSS Frameworks</a>
+<a id="25-queries">2.5: Media Queries</a>
 ---------------------
 
-+ Slides - 
++ Slides - [Media queries](https://drive.google.com/open?id=1y6O2gIYHNmvMr1pQt5YG7otPXQGcq0oxMzaBAva5-u8)
 
+<a id="26-frameworks">2.6: CSS Frameworks</a>
+---------------------
 
++ Slides - [CSS Frameworks](https://docs.google.com/presentation/d/1jAa0sjR-5yvMTiilO7Svkm-8t_qVynw-pZt4AIFvNOE/edit?usp=sharing)
 
