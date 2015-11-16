@@ -19,11 +19,11 @@ Homework 3
 Homework 4
 -----------------------------
 
-+ Access the homework assignment set
++ Access the homework assignment set [here](https://docs.google.com/document/d/1PgBmcLGYjGUAs8CYT48jDzR-cktJ6SPc4PcqiuU1AOM/edit?usp=sharing)
 + Due: TBD
 
 Homework 5 - Final Project
 -----------------------------
 
-+ Access the homework assignment set
-+ Due: TBD
++ Access the homework assignment set [here](https://docs.google.com/document/d/1r--VdZkGkc0fixwkm4eL3QUrWykc9c5nGt89DjWtcq4/edit?usp=sharing)
++ Due: 12/3/2015
