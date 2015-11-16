@@ -20,7 +20,7 @@ Homework 4
 -----------------------------
 
 + Access the homework assignment set [here](https://docs.google.com/document/d/1PgBmcLGYjGUAs8CYT48jDzR-cktJ6SPc4PcqiuU1AOM/edit?usp=sharing)
-+ Due: TBD
++ Due: 11/6/2015
 
 Homework 5 - Final Project
 -----------------------------
